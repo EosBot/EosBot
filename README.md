@@ -43,7 +43,7 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 
 **AI & Agents**
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF635?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-EF4444?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -83,28 +83,28 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 ## 🎮 GitHub Stats & Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/EosBot">
     <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/EosBot">
     <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/EosBot">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=dark&hide_border=true&langs_count=8" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/EosBot">
     <img src="https://streak-stats.demolab.com/?user=EosBot&theme=dark&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/EosBot">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EosBot&theme=react-dark&hide_border=true&area=true" />
   </a>
 </p>
