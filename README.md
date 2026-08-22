@@ -83,24 +83,20 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 ## 🎮 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true&custom_title=📊+GitHub+Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EosBot&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=💻+Top+Languages" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=EosBot&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=EosBot&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EosBot/EosBot/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EosBot&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
