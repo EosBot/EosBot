@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/EosBot">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools" />
   </a>
 </p>
@@ -83,24 +83,30 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 ## 🎮 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EosBot&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=EosBot&theme=dark&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EosBot&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.gif" />
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EosBot&theme=react-dark&hide_border=true&area=true" />
+  </a>
 </p>
 
 ---
