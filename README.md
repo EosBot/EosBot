@@ -14,11 +14,13 @@
 
 I build production AI agent systems and the infrastructure that runs them.
 
-As a solo founder at [6 Sides](https://github.com/EosBot), I design, deploy, and evaluate autonomous agent workflows using **LangGraph**, **CrewAI**, and the **Model Context Protocol (MCP)**. My work spans agent reliability, RAG pipelines, LLM evaluation, Kubernetes orchestration, and automated deployment — from prompt to production.
+As an independent AI & infrastructure consultant, I design, deploy, and evaluate autonomous agent workflows using **LangGraph**, **CrewAI**, and the **Model Context Protocol (MCP)**. My work spans agent reliability, RAG pipelines, LLM evaluation, Kubernetes orchestration, and automated deployment — from prompt to production.
+
+I also build and ship my own products: an 899-skill agent skills library, an OSINT investigation platform, and a multi-tenant SaaS CPQ system.
 
 Previously: infrastructure engineering for **Globo, Metlife, Cargill** at PCA Engenharia (95% client satisfaction); chatbot consulting that **increased conversion 50%** at Grupo OPT; full-stack development at Winmed (C#, React, Laravel).
 
-Based in Brazil (UTC-3). Open to **remote AI agent engineering and platform engineering roles**.
+Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and platform engineering engagements**.
 
 ---
 
@@ -30,7 +32,7 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering and platform engi
 | [**awesome-zoocode-skills**](https://github.com/EosBot/awesome-zoocode-skills) | 899 curated Agent Skills for Claude Code / Roo Code + Composio automation | Python, MCP |
 | [**cpq-paineis-eletricos**](https://github.com/EosBot/cpq-paineis-eletricos) | SaaS CPQ for electrical panel manufacturers — NestJS + Prisma multi-tenant | TypeScript, NestJS |
 | [**assessoriadeti**](https://github.com/EosBot/assessoriadeti) | Typebot + n8n + Traefik + Portainer + Chatwoot deployment automation | Docker, n8n |
-| [**6sidesbackuptool**](https://github.com/EosBot/6sidesbackuptool) | REST API + Borg Backup for encrypted, deduplicated backups | Python, REST |
+| [**backup-tool**](https://github.com/EosBot/6sidesbackuptool) | REST API + Borg Backup for encrypted, deduplicated backups | Python, REST |
 | [**LLM-IA-COLLAB**](https://github.com/EosBot/LLM-IA-COLLAB) | AI model experimentation and collaboration workspace | Jupyter, Python |
 
 ---
@@ -86,3 +88,11 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering and platform engi
 ---
 
 > _Daughter of kings, initiate of Derketo. Building AI systems that ship — not demos._
+
+---
+
+## Consulting & Contact
+
+Available for AI agent development, infrastructure architecture, and platform engineering consulting.
+
+📧 **thalis224@hotmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/thalis-uriel-choeiri-michelino-9b125813a/)** · 🌐 **Based in Brazil (UTC-3), open to remote worldwide**
