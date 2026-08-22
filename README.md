@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=145&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=145&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=160&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=160&lines=Thalis+Michelino;AI+Agent+Engineer+%7C+LangGraph+%C2%B7+MCP+%C2%B7+Kubernetes;Building+production+multi-agent+systems+%26+developer+tools" />
   </a>
 </p>
 
@@ -9,6 +9,8 @@
   <a href="mailto:thalis224@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/EosBot"><img src="https://img.shields.io/github/followers/EosBot?label=Follow&style=flat-square&logo=github"/></a>
 </p>
+
+---
 
 ## About Me
 
@@ -78,16 +80,28 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 
 ---
 
-## GitHub Stats
+## 🎮 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true&custom_title=📊+GitHub+Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EosBot&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200"/>
+</p>
 
-> _Daughter of kings, initiate of Derketo. Building AI systems that ship — not demos._
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&custom_title=💻+Top+Languages" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/api?username=EosBot&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EosBot/EosBot/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</p>
 
 ---
 
@@ -96,3 +110,7 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 Available for AI agent development, infrastructure architecture, and platform engineering consulting.
 
 📧 **thalis224@hotmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/thalis-uriel-choeiri-michelino-9b125813a/)** · 🌐 **Based in Brazil (UTC-3), open to remote worldwide**
+
+---
+
+> _Daughter of kings, initiate of Derketo. Building AI systems that ship — not demos._
