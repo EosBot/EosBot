@@ -16,7 +16,7 @@
 
 I build production AI agent systems and the infrastructure that runs them.
 
-As an independent AI & infrastructure consultant, I design, deploy, and evaluate autonomous agent workflows using **LangGraph**, **CrewAI**, and the **Model Context Protocol (MCP)**. My work spans agent reliability, RAG pipelines, LLM evaluation, Kubernetes orchestration, and automated deployment — from prompt to production.
+At **Thalis Labs**, I design, deploy, and evaluate autonomous agent workflows using **LangGraph**, **CrewAI**, and the **Model Context Protocol (MCP)**. My work spans agent reliability, RAG pipelines, LLM evaluation, Kubernetes orchestration, and automated deployment — from prompt to production.
 
 I also build and ship my own products: an 899-skill agent skills library, an OSINT investigation platform, and a multi-tenant SaaS CPQ system.
 
@@ -107,7 +107,7 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 
 ## Consulting & Contact
 
-Available for AI agent development, infrastructure architecture, and platform engineering consulting.
+**Thalis Labs** — AI agent development, infrastructure architecture, and platform engineering consulting.
 
 📧 **thalis224@hotmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/thalis-uriel-choeiri-michelino-9b125813a/)** · 🌐 **Based in Brazil (UTC-3), open to remote worldwide**
 
