@@ -83,20 +83,20 @@ Based in Brazil (UTC-3). Open to **remote AI agent engineering, consulting, and 
 ## 🎮 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EosBot&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+  <img src="https://icon.mzrdev.com/trophy?username=EosBot&theme=dark&no-bg=true" alt="GitHub Trophies" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EosBot&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EosBot&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://icon.mzrdev.com/stats?username=EosBot&theme=dark&show_icons=true" alt="GitHub Stats" height="180"/>
+  <img src="https://icon.mzrdev.com/stats?username=EosBot&theme=dark&show_icons=true&type=langs" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EosBot&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
+  <img src="https://icon.mzrdev.com/stats?username=EosBot&theme=dark&type=streak" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EosBot&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <img src="https://icon.mzrdev.com/snk?username=EosBot&palette=github-dark&color_bar_by_eaten=true&show_score=true&speed=1" alt="Contribution Snake" width="100%"/>
 </p>
 
 ---
