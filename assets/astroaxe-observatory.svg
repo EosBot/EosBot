@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">AstroAxé — observatório ritual em desenvolvimento</title>
+<desc id="desc">Painel de instrumento celeste com mandala natal e estado factual do MVP na branch develop, ainda sem release pública.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A10"/><stop offset=".62" stop-color="#0D1B29"/><stop offset="1" stop-color="#123047"/></linearGradient>
+  <radialGradient id="lens"><stop stop-color="#68A8A4" stop-opacity=".24"/><stop offset=".7" stop-color="#123047" stop-opacity=".08"/><stop offset="1" stop-color="#070A10" stop-opacity="0"/></radialGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#020408" flood-opacity=".7"/></filter>
+  <filter id="texture"><feTurbulence baseFrequency=".58" numOctaves="4" seed="17"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .055 0"/></filter>
+  <clipPath id="clip"><rect width="1200" height="480" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="480" fill="url(#panel)"/>
+  <rect width="1200" height="480" fill="url(#lens)"/>
+  <path d="M470 0V480M0 402H1200" stroke="#D8D3C7" stroke-opacity=".09"/>
+  <g transform="translate(236 226)" filter="url(#shadow)">
+    <circle r="166" fill="#07101A" stroke="#C47A4A" stroke-opacity=".55"/>
+    <circle r="139" fill="none" stroke="#68A8A4" stroke-opacity=".35"/>
+    <circle r="104" fill="none" stroke="#D8D3C7" stroke-opacity=".18" stroke-dasharray="2 8"/>
+    <circle r="62" fill="none" stroke="#C47A4A" stroke-opacity=".38"/>
+    <g stroke="#D8D3C7" stroke-opacity=".16"><path d="M0-166V166M-166 0H166M-117-117 117 117M117-117-117 117"/></g>
+    <path d="M0-154 31-73 118-99 73-31 154 0 73 31 108 108 31 73 0 154-31 73-108 108-73 31-154 0-73-31-108-108-31-73Z" fill="none" stroke="#68A8A4" stroke-opacity=".5"/>
+    <path d="M0-46 11-11 46 0 11 11 0 46-11 11-46 0-11-11Z" fill="#C47A4A"/>
+    <circle r="10" fill="#070A10" stroke="#D8D3C7"/>
+    <g fill="#D8D3C7"><circle cx="0" cy="-139" r="3"/><circle cx="99" cy="-98" r="3"/><circle cx="139" cy="0" r="3"/><circle cx="-98" cy="99" r="3"/></g>
+  </g>
+  <text x="516" y="64" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12" letter-spacing="3">PROJETO PRIVADO / OBSERVATÓRIO RITUAL</text>
+  <text x="516" y="137" fill="#D8D3C7" font-family="Anybody, Arial Narrow, sans-serif" font-size="58" font-weight="760" letter-spacing="-2">ASTROAXÉ</text>
+  <text x="516" y="175" fill="#C47A4A" font-family="Literata, Georgia, serif" font-size="19">Astrologia calculada. Contexto cultural. Ritual diário.</text>
+  <g font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12">
+    <text x="516" y="236" fill="#71868D">ESTADO</text><text x="686" y="236" fill="#D8D3C7">MVP LOCAL EM DESENVOLVIMENTO</text>
+    <text x="516" y="273" fill="#71868D">FONTE</text><text x="686" y="273" fill="#D8D3C7">BRANCH DEVELOP</text>
+    <text x="516" y="310" fill="#71868D">RELEASE</text><text x="686" y="310" fill="#C47A4A">SEM VERSÃO PÚBLICA APROVADA</text>
+  </g>
+  <path d="M516 344H1090" stroke="#68A8A4" stroke-opacity=".25"/>
+  <text x="516" y="378" fill="#D8D3C7" font-family="Literata, Georgia, serif" font-size="15">Mapa natal calculado · trânsitos determinísticos · acervo cultural em revisão</text>
+  <text x="36" y="446" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">INSTRUMENTO / MANDALA NATAL / CÉU CALCULADO</text>
+  <text x="1164" y="446" text-anchor="end" fill="#C47A4A" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">NÃO DISPONÍVEL COMERCIALMENTE</text>
+  <rect width="1200" height="480" filter="url(#texture)" opacity=".45"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="479" rx="25.5" fill="none" stroke="#D8D3C7" stroke-opacity=".16"/>
+</svg>
