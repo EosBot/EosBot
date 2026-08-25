@@ -92,25 +92,44 @@ My focus is not another isolated AI demo. It is the engineering around the model
 - **Production RAG:** grounded retrieval, evidence traceability, and measurable answer quality.
 - **Cloud-native AI platforms:** scalable, observable workloads on Kubernetes and container platforms.
 
-## AstroAxe — AI that moves business forward
+## AstroAxe | Turn operational bottlenecks into working AI
 
-> **From repetitive work to intelligent operations.** AstroAxe helps turn business challenges into practical AI solutions by connecting intelligent agents, automation, software, and production infrastructure.
+> **Your business does not need another AI demo. It needs a system that removes work, connects knowledge, and performs reliably in production.**
 
-AstroAxe is where I apply my experience in AI engineering and IT infrastructure to help organizations **automate processes, integrate systems, and launch AI-first products**. Each engagement is designed around a real operational outcome — not technology for technology's sake.
+**AstroAxe** designs and delivers practical AI solutions for companies that want to automate operations, equip teams with intelligent copilots, or launch AI-first products. One engineering partner connects the entire path: discovery, agents, software, integrations, cloud infrastructure, evaluation, and observability.
 
-| What AstroAxe delivers | Business value |
-| :--- | :--- |
-| **AI agents and copilots** | Assist teams, execute multi-step workflows, and connect company knowledge to daily operations. |
-| **Intelligent automation** | Reduce manual work by integrating APIs, internal systems, n8n workflows, and conversational interfaces. |
-| **RAG and knowledge systems** | Make organizational information searchable and useful with grounded, traceable answers. |
-| **AI infrastructure and LLMOps** | Take solutions from prototype to production with containers, cloud, observability, evaluation, and guardrails. |
-| **Technical discovery and architecture** | Identify high-value use cases and define a secure, maintainable implementation roadmap. |
+| If your team needs to... | AstroAxe can deliver... | So you can... |
+| :--- | :--- | :--- |
+| Reduce repetitive, multi-step work | **AI agents and intelligent automation** connected to APIs, n8n, and internal systems | Give people more time for decisions and customer work |
+| Use knowledge scattered across documents and tools | **RAG systems and copilots** with grounded, traceable answers | Find and apply company knowledge with confidence |
+| Move an AI prototype into real operations | **Production AI infrastructure and LLMOps** with containers, cloud, evaluation, observability, and guardrails | Operate a maintainable system instead of a fragile proof of concept |
+| Validate where AI can create value | **Technical discovery and solution architecture** focused on use cases, risk, and delivery | Invest in a clear roadmap before committing to a build |
 
-**Looking for an AI solution tailored to your operation?**
+### Why AstroAxe
 
-[![Talk to AstroAxe](https://img.shields.io/badge/Talk_to_AstroAxe-Start_a_conversation-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalis224@hotmail.com?subject=AstroAxe%20-%20AI%20project)
+- **Outcome before technology:** every engagement starts with the operational problem and a measurable definition of success.
+- **End-to-end delivery:** AI engineering, backend, automation, infrastructure, and deployment stay connected under one technical direction.
+- **Production by design:** security, human approval boundaries, auditability, fallback paths, and monitoring are part of the architecture.
+- **Experience behind the promise:** enterprise infrastructure work supporting Globo, MetLife, and Cargill, plus chatbot consulting that increased conversion by **50%**.
 
-<sub>When contacting me, include your current challenge, the process you want to improve, and the result you expect. This helps turn the first conversation into an actionable next step.</sub>
+### From challenge to production
+
+1. **Opportunity review:** map the process, bottlenecks, systems, constraints, and expected result.
+2. **Solution blueprint:** define the workflow, architecture, integrations, risks, and delivery roadmap.
+3. **Build and validate:** ship the smallest useful solution, test it against real scenarios, and measure quality.
+4. **Deploy and operate:** add the infrastructure, observability, documentation, and controls needed for dependable use.
+
+<div align="center">
+
+### Where could AI remove friction from your operation?
+
+[![Request an AI Opportunity Review](https://img.shields.io/badge/Request_an_AI_Opportunity_Review-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalis224@hotmail.com?subject=AstroAxe%20-%20AI%20Opportunity%20Review&body=Current%20challenge%3A%0AProcess%20to%20improve%3A%0AExpected%20result%3A)
+
+**No generic pitch. Start with your current challenge, the process you want to improve, and the result you expect.**
+
+[Email](mailto:thalis224@hotmail.com?subject=AstroAxe%20-%20AI%20Opportunity%20Review) · [LinkedIn](https://www.linkedin.com/in/thalis-uriel-choeiri-michelino-9b125813a/)
+
+</div>
 
 ## Beyond the README
 
