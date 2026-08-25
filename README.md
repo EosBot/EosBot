@@ -31,18 +31,44 @@ Automation        n8n · APIs · workflow automation · developer tooling
 
 My focus is not another isolated AI demo. It is the engineering around the model: reproducible deployments, measurable quality, auditable workflows, resilient integrations, and maintainable software.
 
-## Selected work
+## Featured work
 
-| Project | Problem and outcome | Core technologies |
-| :--- | :--- | :--- |
-| [**Argus**](https://github.com/EosBot/argus) | Local-first OSINT investigation platform designed around auditable evidence workflows. | Python · AI · OSINT |
-| [**Awesome Zoocodes Skills**](https://github.com/EosBot/awesome-zoocode-skills) | Curated library of **899 agent skills** for AI coding assistants and repeatable agent workflows. | Agent Skills · MCP · Python |
-| [**CPQ Painéis Elétricos**](https://github.com/EosBot/cpq-paineis-eletricos) | Multi-tenant configure-price-quote SaaS for electrical-panel workflows. | TypeScript · NestJS · Prisma |
-| [**Assessoria de TI**](https://github.com/EosBot/assessoriadeti) | Self-hosted conversational automation stack integrating support, workflows, and operations. | Typebot · n8n · Docker · Traefik |
-| [**6Sides Backup Tool**](https://github.com/EosBot/6sidesbackuptool) | API-driven backup automation built on Borg Backup. | Python · REST API · Borg |
-| [**LLM IA Collab**](https://github.com/EosBot/LLM-IA-COLLAB) | Workspace for collaborative LLM experiments and applied AI research. | Jupyter · Python · LLMs |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/EosBot/awesome-zoocode-skills">Awesome ZooCode Skills</a></h3>
+<p><strong>899 curated skills</strong> for AI coding agents, organized for repeatable workflows and Composio-powered automation.</p>
+<p><code>AI Agents</code> <code>MCP</code> <code>Python</code> <code>Developer Tools</code></p>
+<p><a href="https://github.com/EosBot/awesome-zoocode-skills#readme">Explore the catalog</a> · <a href="https://github.com/EosBot/awesome-zoocode-skills/issues">Contribute</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/EosBot/argus">Argus 2.0</a></h3>
+<p>Local-first OSINT and Tor investigation platform built around <strong>auditable evidence</strong>, RBAC, and secure operational workflows.</p>
+<p><code>Python</code> <code>OSINT</code> <code>Security</code> <code>AI</code></p>
+<p><a href="https://github.com/EosBot/argus#readme">See the architecture</a> · <a href="https://github.com/EosBot/argus/issues">Open an issue</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/EosBot/cpq-paineis-eletricos">CPQ Painéis Elétricos</a></h3>
+<p>Multi-tenant configure-price-quote SaaS for electrical-panel manufacturers, with tenant isolation and production-oriented controls.</p>
+<p><code>TypeScript</code> <code>NestJS</code> <code>Prisma</code> <code>Next.js</code></p>
+<p><a href="https://github.com/EosBot/cpq-paineis-eletricos#readme">Explore the system</a> · <a href="https://github.com/EosBot/cpq-paineis-eletricos/issues">Follow development</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/EosBot/assessoriadeti">Assessoria de TI</a></h3>
+<p>Secure deployment runbook for a self-hosted conversational automation stack, from host hardening to Docker operations.</p>
+<p><code>n8n</code> <code>Typebot</code> <code>Docker</code> <code>Traefik</code></p>
+<p><a href="https://github.com/EosBot/assessoriadeti#readme">Read the runbook</a> · <a href="https://github.com/EosBot/assessoriadeti/issues">Suggest an improvement</a></p>
+</td>
+</tr>
+</table>
 
-> Browse the repositories for architecture notes, setup instructions, and implementation details. The projects above represent the intersection of AI engineering, infrastructure, and automation that I specialize in.
+### Practical engineering, beyond AI
+
+[**OrcaSlicer Profiles for Ender-3 V3 KE**](https://github.com/EosBot/orcaslicer-ender3v3ke-profiles) packages tested machine, filament, and process profiles for a real maker workflow: **9 materials, 27 process profiles, and one documented setup** ready to import.
+
+> These projects are the best entry points into my work: agent tooling, trustworthy investigations, vertical SaaS, secure infrastructure, and hands-on maker engineering.
 
 ## Impact
 
