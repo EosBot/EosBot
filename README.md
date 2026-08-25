@@ -1,82 +1,80 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="Thalis Michelino — engenharia entre inteligência, sistemas e infraestrutura, representada como um instrumento celeste." />
+<img src="./assets/profile-hero.svg" width="1200" alt="Thalis Michelino — engineering across intelligence, systems, and infrastructure, represented as a celestial instrument." />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thalis-uriel-choeiri-michelino-9b125813a/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:thalis224@hotmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/EosBot?tab=repositories">Repositórios</a>
+  <a href="https://github.com/EosBot?tab=repositories">Repositories</a>
 </div>
 
 <br />
 
-## Engenharia como instrumento
+## Engineering as an instrument
 
-Sou desenvolvedor e analista de infraestrutura. Meus projetos públicos atravessam **sistemas de agentes, ferramentas para desenvolvedores, segurança, SaaS vertical, automação e fabricação digital**.
+I am a software developer and infrastructure analyst. My public work spans **agent systems, developer tooling, security, vertical SaaS, automation, and digital fabrication**.
 
-Não trato IA como uma camada isolada. O trabalho aparece no sistema inteiro: domínio, dados, APIs, testes, containers, operação e documentação que outra pessoa consegue inspecionar.
+I do not treat AI as an isolated layer. The work shows up across the whole system: domain logic, data, APIs, tests, containers, operations, and documentation another engineer can inspect.
 
-```text
-CAMPO 01  agentes e ferramentas       LangGraph · MCP · Python
-CAMPO 02  aplicações e plataformas    TypeScript · Next.js · NestJS
-CAMPO 03  infraestrutura              Docker · Kubernetes · Linux
-CAMPO 04  dados e persistência         PostgreSQL · Prisma · Redis
-```
+**Agent systems** · LangGraph · MCP · Python  
+**Applications** · TypeScript · Next.js · NestJS  
+**Infrastructure** · Docker · Kubernetes · Linux  
+**Data** · PostgreSQL · Prisma · Redis
 
-## AstroAxé — produto em órbita privada
+## AstroAxé — a product in private orbit
 
-<img src="./assets/astroaxe-observatory.svg" width="100%" alt="AstroAxé, observatório ritual em desenvolvimento privado, com MVP local na branch develop e sem release pública." />
+<img src="./assets/astroaxe-observatory.svg" width="1200" alt="AstroAxé, a private ritual observatory in development, with a local MVP on the develop branch and no public release." />
 
-**AstroAxé está em desenvolvimento e ainda não possui versão promovida para produção.** A `develop` contém o MVP local; a `main` permanece reservada para snapshots aprovados.
+**AstroAxé is under development and has not been promoted to production.** The `develop` branch contains the local MVP; `main` remains reserved for approved snapshots.
 
-O projeto é um aplicativo web responsivo de **astrologia calculada, regências culturais contextualizadas e ritual diário**. O que existe hoje no código:
+The project is a responsive web application for **calculated astrology, contextualized cultural regencies, and a daily ritual**. The code currently includes:
 
-- onboarding guest-first em quatro etapas: nome, data, hora opcional e cidade;
-- cálculo do mapa natal com timezone IANA e tratamento explícito para hora desconhecida;
-- primeiro mapa exibido antes de cadastro ou paywall;
-- contas, perfis e sessões opacas no MVP local;
-- trânsitos determinísticos com janelas de início, pico e fim;
-- corpus cultural e motor de regências em pesquisa, com ativação pública bloqueada até calibração.
+- a four-step guest-first onboarding flow: name, date, optional time, and city;
+- natal chart calculation with IANA timezone handling and an explicit unknown-time contract;
+- the first chart shown before registration or a paywall;
+- accounts, profiles, and opaque sessions in the local MVP;
+- deterministic transits with start, peak, and end windows;
+- a cultural corpus and regency engine under research, with public activation blocked until calibration.
 
-O produto **não está disponível comercialmente**. Esta apresentação registra o trabalho em andamento sem antecipar funcionalidades, preço, clientes ou resultados que o repositório não comprova.
+The product is **not commercially available**. This profile records work in progress without inventing features, pricing, customers, or outcomes the repository does not prove.
 
-## Coordenadas públicas
+## Public coordinates
 
 ### 01 / [Awesome ZooCode Skills](https://github.com/EosBot/awesome-zoocode-skills)
 
-Coleção organizada de **899 Agent Skills** para assistentes de código, com catálogo, especificação de front matter, instalação local e automação via Composio.
+An organized collection of **899 Agent Skills** for coding assistants, with a catalog, front-matter specification, local installation, and Composio automation.
 
 `AI agents` `MCP` `Python` `developer tooling`
 
 ### 02 / [Argus 2.0](https://github.com/EosBot/argus)
 
-Plataforma local para investigações OSINT e Tor orientadas a casos, com preservação de fontes, trilha de auditoria, RBAC e documentação operacional.
+A local-first platform for case-oriented OSINT and Tor investigations, with source preservation, audit trails, RBAC, and operational documentation.
 
-`Python` `OSINT` `segurança` `investigação`
+`Python` `OSINT` `security` `investigation`
 
-### 03 / [CPQ Painéis Elétricos](https://github.com/EosBot/cpq-paineis-eletricos)
+### 03 / [Electrical Panel CPQ](https://github.com/EosBot/cpq-paineis-eletricos)
 
-SaaS multi-tenant de configure-price-quote para fabricantes de painéis elétricos, estruturado como monorepo com NestJS, Next.js, Prisma e PostgreSQL.
+A multi-tenant configure-price-quote SaaS for electrical panel manufacturers, structured as a monorepo with NestJS, Next.js, Prisma, and PostgreSQL.
 
 `TypeScript` `NestJS` `Next.js` `Prisma`
 
-### 04 / [Assessoria de TI](https://github.com/EosBot/assessoriadeti)
+### 04 / [IT Advisory Automation](https://github.com/EosBot/assessoriadeti)
 
-Runbook de implantação e hardening para uma stack self-hosted de automação conversacional com Typebot, n8n, Traefik, Portainer e Chatwoot.
+A deployment and hardening runbook for a self-hosted conversational automation stack using Typebot, n8n, Traefik, Portainer, and Chatwoot.
 
-`Docker` `n8n` `Traefik` `operações`
+`Docker` `n8n` `Traefik` `operations`
 
-### 05 / [Perfis OrcaSlicer para Ender-3 V3 KE](https://github.com/EosBot/orcaslicer-ender3v3ke-profiles)
+### 05 / [OrcaSlicer Profiles for Ender-3 V3 KE](https://github.com/EosBot/orcaslicer-ender3v3ke-profiles)
 
-Configuração prática para impressão 3D: **9 perfis de filamento, 27 perfis de processo e 1 perfil de máquina**, com parâmetros e instruções de importação documentados.
+A practical 3D-printing configuration with **9 filament profiles, 27 process profiles, and 1 machine profile**, plus documented parameters and import instructions.
 
-`OrcaSlicer` `Klipper` `impressão 3D` `calibração`
+`OrcaSlicer` `Klipper` `3D printing` `calibration`
 
 ---
 
 <div align="center">
-  <strong>Código antes de promessa.</strong><br />
-  <sub>Leia os repositórios, examine as decisões e abra uma conversa a partir do trabalho real.</sub><br /><br />
+  <strong>Code before claims.</strong><br />
+  <sub>Read the repositories, inspect the decisions, and start a conversation from the work itself.</sub><br /><br />
   <a href="mailto:thalis224@hotmail.com">thalis224@hotmail.com</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/EosBot?tab=repositories">github.com/EosBot</a>

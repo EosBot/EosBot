@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-<title id="title">AstroAxé — observatório ritual em desenvolvimento</title>
-<desc id="desc">Painel de instrumento celeste com mandala natal e estado factual do MVP na branch develop, ainda sem release pública.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">AstroAxé — ritual observatory in development</title>
+<desc id="desc">A celestial instrument panel showing the natal mandala and the factual state of the development-branch MVP, with no public release.</desc>
 <defs>
   <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A10"/><stop offset=".62" stop-color="#0D1B29"/><stop offset="1" stop-color="#123047"/></linearGradient>
   <radialGradient id="lens"><stop stop-color="#68A8A4" stop-opacity=".24"/><stop offset=".7" stop-color="#123047" stop-opacity=".08"/><stop offset="1" stop-color="#070A10" stop-opacity="0"/></radialGradient>
@@ -23,18 +23,18 @@
     <circle r="10" fill="#070A10" stroke="#D8D3C7"/>
     <g fill="#D8D3C7"><circle cx="0" cy="-139" r="3"/><circle cx="99" cy="-98" r="3"/><circle cx="139" cy="0" r="3"/><circle cx="-98" cy="99" r="3"/></g>
   </g>
-  <text x="516" y="64" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12" letter-spacing="3">PROJETO PRIVADO / OBSERVATÓRIO RITUAL</text>
+  <text x="516" y="64" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12" letter-spacing="3">PRIVATE PROJECT / RITUAL OBSERVATORY</text>
   <text x="516" y="137" fill="#D8D3C7" font-family="Anybody, Arial Narrow, sans-serif" font-size="58" font-weight="760" letter-spacing="-2">ASTROAXÉ</text>
-  <text x="516" y="175" fill="#C47A4A" font-family="Literata, Georgia, serif" font-size="19">Astrologia calculada. Contexto cultural. Ritual diário.</text>
+  <text x="516" y="175" fill="#C47A4A" font-family="Literata, Georgia, serif" font-size="19">Calculated astrology. Cultural context. Daily ritual.</text>
   <g font-family="IBM Plex Mono, ui-monospace, monospace" font-size="12">
-    <text x="516" y="236" fill="#71868D">ESTADO</text><text x="686" y="236" fill="#D8D3C7">MVP LOCAL EM DESENVOLVIMENTO</text>
-    <text x="516" y="273" fill="#71868D">FONTE</text><text x="686" y="273" fill="#D8D3C7">BRANCH DEVELOP</text>
-    <text x="516" y="310" fill="#71868D">RELEASE</text><text x="686" y="310" fill="#C47A4A">SEM VERSÃO PÚBLICA APROVADA</text>
+    <text x="516" y="236" fill="#71868D">STATUS</text><text x="686" y="236" fill="#D8D3C7">LOCAL MVP IN DEVELOPMENT</text>
+    <text x="516" y="273" fill="#71868D">SOURCE</text><text x="686" y="273" fill="#D8D3C7">DEVELOP BRANCH</text>
+    <text x="516" y="310" fill="#71868D">RELEASE</text><text x="686" y="310" fill="#C47A4A">NO APPROVED PUBLIC RELEASE</text>
   </g>
   <path d="M516 344H1090" stroke="#68A8A4" stroke-opacity=".25"/>
-  <text x="516" y="378" fill="#D8D3C7" font-family="Literata, Georgia, serif" font-size="15">Mapa natal calculado · trânsitos determinísticos · acervo cultural em revisão</text>
-  <text x="36" y="446" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">INSTRUMENTO / MANDALA NATAL / CÉU CALCULADO</text>
-  <text x="1164" y="446" text-anchor="end" fill="#C47A4A" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">NÃO DISPONÍVEL COMERCIALMENTE</text>
+  <text x="516" y="378" fill="#D8D3C7" font-family="Literata, Georgia, serif" font-size="15">Calculated natal chart · deterministic transits · cultural archive under review</text>
+  <text x="36" y="446" fill="#68A8A4" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">INSTRUMENT / NATAL MANDALA / CALCULATED SKY</text>
+  <text x="1164" y="446" text-anchor="end" fill="#C47A4A" font-family="IBM Plex Mono, ui-monospace, monospace" font-size="10" letter-spacing="1.5">NOT COMMERCIALLY AVAILABLE</text>
   <rect width="1200" height="480" filter="url(#texture)" opacity=".45"/>
 </g>
 <rect x=".5" y=".5" width="1199" height="479" rx="25.5" fill="none" stroke="#D8D3C7" stroke-opacity=".16"/>
